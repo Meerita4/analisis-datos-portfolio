@@ -1,8 +1,9 @@
 # Ventas de videojuegos: ¿dónde invertir?
 
 ## Pregunta de negocio
-[Una o dos frases. Por ejemplo: qué decisión quiere tomar una editora
-sobre géneros y plataformas. Escríbela con tus palabras.]
+¿Que genero vende mas?
+<img width="887" height="507" alt="imagen" src="https://github.com/user-attachments/assets/f83a9615-069d-461a-8c79-d9680b227fe8" />
+
 
 ## Datos
 - **Fuente:** dataset "Video Game Sales" de Kaggle (autor: GregorySmith).
