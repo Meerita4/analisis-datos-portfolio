@@ -22,7 +22,7 @@
 Resultado: [cuántas filas quedaron y qué porcentaje perdiste].
 
 ## Hallazgos
-(Se rellena según avances.)
+¿Que genero vende mas?
 
 ## Recomendación
 (Al final.)
